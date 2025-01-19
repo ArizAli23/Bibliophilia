@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
             else{
                 heading.style.fontSize = "30px";
                 heading.textContent="WELCOME BACK TO BIBLIOPHILIA!";
-                message.textContent="Your journey into the world of books begins here. Please Signup to join our community of book lovers back!";
+                message.textContent="Your journey into the world of books begins here. Please Sign Up to join our community of book lovers back!";
                 counter++;
             }
         });
